@@ -6,6 +6,9 @@ The user can choose any interval which is divided by 100 (1,2,4,5,10,25,50 or 10
 
 With the configuration of issues done ratio, the accuracy of an issue evolution gets easier to see and easier to measure a course of a project.
 
+== Support Redmine 4.1.1 
+* 使用新版redmine _attributes.html.erb 搭配此source內的done_ratio修正語法
+* 僅於4.1.1上測試可用, 不支援舊版redmine上安裝
 
 == Features
 
